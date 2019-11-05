@@ -1,0 +1,13 @@
+body
+{
+  background-image:url(img.JPG);
+}
+p {
+    color:white;
+  font-size:30px;
+  font-weight: bold;
+}
+p{
+  text-shadow:7px #7ab6d8;
+  text-align: justify;
+}
